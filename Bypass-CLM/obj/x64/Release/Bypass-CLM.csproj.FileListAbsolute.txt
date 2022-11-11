@@ -1,0 +1,11 @@
+Z:\teamserver\Bypass-CLM\Bypass-CLM\obj\x64\Release\Bypass-CLM.csproj.AssemblyReference.cache
+Z:\teamserver\Bypass-CLM\Bypass-CLM\obj\x64\Release\Bypass-CLM.csproj.SuggestedBindingRedirects.cache
+Z:\teamserver\Bypass-CLM\Bypass-CLM\obj\x64\Release\Bypass-CLM.csproj.CoreCompileInputs.cache
+Z:\teamserver\Bypass-CLM\Bypass-CLM\bin\x64\Release\Bypass-CLM.exe.config
+Z:\teamserver\Bypass-CLM\Bypass-CLM\bin\x64\Release\Bypass-CLM.exe
+Z:\teamserver\Bypass-CLM\Bypass-CLM\bin\x64\Release\Bypass-CLM.pdb
+Z:\teamserver\Bypass-CLM\Bypass-CLM\bin\x64\Release\Microsoft.PowerShell.ConsoleHost.dll
+Z:\teamserver\Bypass-CLM\Bypass-CLM\bin\x64\Release\System.Management.Automation.dll
+Z:\teamserver\Bypass-CLM\Bypass-CLM\obj\x64\Release\Bypass-CLM.csproj.CopyComplete
+Z:\teamserver\Bypass-CLM\Bypass-CLM\obj\x64\Release\Bypass-CLM.exe
+Z:\teamserver\Bypass-CLM\Bypass-CLM\obj\x64\Release\Bypass-CLM.pdb
